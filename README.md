@@ -5,6 +5,7 @@ just a note
 7/15/mlinn
 
 7/15/mlinn: this is my second note
+heres the third one
 
 # The Art of Command Line
 
